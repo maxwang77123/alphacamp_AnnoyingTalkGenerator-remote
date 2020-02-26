@@ -7,6 +7,6 @@ express // 制定靜態及動態路由，依USER的使用，回應與渲染畫�
 安裝程序
 打開終端機 pwd //確認當前目錄
 cd到等一下git clone的「欲下載位置 」
-git clone https://github.com/maxwang77123/alphacamp_AnnoyedTalkGenerator.git
+git clone https://github.com/maxwang77123/alphacamp_AnnoyingTalkGenerator.git
 專案維護者及更多資訊
 作者：maxwang77123@gmail.com
